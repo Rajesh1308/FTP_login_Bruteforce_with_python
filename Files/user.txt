@@ -1,0 +1,11 @@
+user
+msfadmin
+root
+msf
+admin
+administrator
+admin@123
+@dmin@123
+password
+r@@t
+1234
