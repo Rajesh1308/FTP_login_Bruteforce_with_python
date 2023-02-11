@@ -31,7 +31,7 @@ if __name__ == '__main__':
     print(termcolor.colored("\n>>Enter the host name or address :", 'blue'), end=' ')
     hostname = input()
     host = socket.gethostbyname(hostname)
-    uname = open("Files/pass.txt").read().split("\n")
+    uname = open("Files/user.txt").read().split("\n")
     passwords = open("Files/pass.txt").read().split("\n")
 
     for user in uname:
