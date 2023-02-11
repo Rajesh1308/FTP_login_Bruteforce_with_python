@@ -1,6 +1,6 @@
 import ftplib
 import socket
-import pyfiglet, termcolor, sys
+import pyfiglet, termcolor
 
 port = 21
 
